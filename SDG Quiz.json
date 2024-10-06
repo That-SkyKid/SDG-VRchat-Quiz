@@ -1,0 +1,22 @@
+[
+    {
+        "category": "SDG-Quiz",
+        "id": "123",
+        "correctAnswer": "2",
+        "incorrectAnswers": [
+            "3",
+            "4",
+            "5"
+        ],
+        "question": {
+            "text": "Test what is 1+1?"
+        },
+        "tags": [
+            "SDG"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    }
+]
