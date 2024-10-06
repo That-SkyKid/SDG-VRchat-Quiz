@@ -174,14 +174,14 @@
     {
         "category": "arts_and_literature",
         "id": "622a1c347cc59eab6f94fa1d",
-        "correctAnswer": "Climate Change",
+        "correctAnswer": "Dubai",
         "incorrectAnswers": [
-            "Weather",
-            "Gloval Warming",
-            "Greenhouse Effect"
+            "Malaysia",
+            "USA",
+            "China"
         ],
         "question": {
-            "text": "What is the term for the long-term change in the average weather patterns that have come to define Earth's local, regional and global climates?"
+            "text": "Where does 28th United Nations Climate Change annual conference held?"
         },
         "tags": [
             "art",
