@@ -1,6 +1,6 @@
 [
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c397cc59eab6f950f41",
         "correctAnswer": "Edgar Allan Poe",
         "incorrectAnswers": [
@@ -12,7 +12,7 @@
             "text": "Which author wrote 'The Masque of the Red Death'?"
         },
         "tags": [
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "hard",
@@ -20,7 +20,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c397cc59eab6f950f3d",
         "correctAnswer": "J. R. R. Tolkien",
         "incorrectAnswers": [
@@ -34,7 +34,7 @@
         "tags": [
             "literature",
             "fantasy",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "medium",
@@ -42,7 +42,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c347cc59eab6f94fa32",
         "correctAnswer": "Neoclassicism",
         "incorrectAnswers": [
@@ -56,7 +56,7 @@
         "tags": [
             "art",
             "painting",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "hard",
@@ -64,7 +64,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c397cc59eab6f950f9a",
         "correctAnswer": "William Shakespeare",
         "incorrectAnswers": [
@@ -76,7 +76,7 @@
             "text": "Which author wrote 'Macbeth'?"
         },
         "tags": [
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "easy",
@@ -84,7 +84,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c3a7cc59eab6f9512f6",
         "correctAnswer": "J.D. Salinger",
         "incorrectAnswers": [
@@ -96,7 +96,7 @@
             "text": "Who wrote The Catcher in the Rye?"
         },
         "tags": [
-            "arts_and_literature",
+            "VRchat_SDG",
             "literature",
             "people"
         ],
@@ -106,7 +106,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c3c7cc59eab6f951896",
         "correctAnswer": "Lewis Carrol",
         "incorrectAnswers": [
@@ -121,7 +121,7 @@
             "literature",
             "people",
             "pseudonyms",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "hard",
@@ -129,7 +129,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c3b7cc59eab6f9513d1",
         "correctAnswer": "The Chronicles of Narnia",
         "incorrectAnswers": [
@@ -144,7 +144,7 @@
             "literature",
             "fictitious_characters",
             "young_adult",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "easy",
@@ -152,7 +152,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c3a7cc59eab6f951394",
         "correctAnswer": "The Adventures of Tom Sawyer",
         "incorrectAnswers": [
@@ -164,7 +164,7 @@
             "text": "In which book does 'Huckleberry Finn' appear?"
         },
         "tags": [
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "medium",
@@ -172,7 +172,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c347cc59eab6f94fa1d",
         "correctAnswer": "‎Pablo Picasso",
         "incorrectAnswers": [
@@ -186,7 +186,7 @@
         "tags": [
             "art",
             "painting",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "medium",
@@ -194,7 +194,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c347cc59eab6f94f95f",
         "correctAnswer": "My Life As a Man",
         "incorrectAnswers": [
@@ -208,7 +208,7 @@
         "tags": [
             "literature",
             "fictitious_characters",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "hard",
@@ -216,7 +216,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "648889135dba6c873ef650c1",
         "correctAnswer": "Horton",
         "incorrectAnswers": [
@@ -228,7 +228,7 @@
             "text": "Which Dr. Seuss character heard a small noise in the Jungle of Nool?"
         },
         "tags": [
-            "arts_and_literature",
+            "VRchat_SDG",
             "literature",
             "childrens_literature"
         ],
@@ -238,7 +238,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c347cc59eab6f94fa4c",
         "correctAnswer": "High Renaissance",
         "incorrectAnswers": [
@@ -259,7 +259,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c3a7cc59eab6f95138d",
         "correctAnswer": "Les Misérables",
         "incorrectAnswers": [
@@ -272,7 +272,7 @@
         },
         "tags": [
             "classic_novels",
-            "arts_and_literature",
+            "VRchat_SDG",
             "literature",
             "fictitious_characters"
         ],
@@ -282,7 +282,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c397cc59eab6f950ecc",
         "correctAnswer": "Haruki Murakami",
         "incorrectAnswers": [
@@ -294,7 +294,7 @@
             "text": "Which author wrote 'Kafka on the Shore'?"
         },
         "tags": [
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "hard",
@@ -302,7 +302,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c397cc59eab6f950e7a",
         "correctAnswer": "Johannes V. Jensen",
         "incorrectAnswers": [
@@ -315,7 +315,7 @@
         },
         "tags": [
             "literature",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "hard",
@@ -323,7 +323,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c347cc59eab6f94f98e",
         "correctAnswer": "To Kill A Mockingbird",
         "incorrectAnswers": [
@@ -338,7 +338,7 @@
             "fictitious_characters",
             "literature",
             "classic_novels",
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "medium",
@@ -346,7 +346,7 @@
         "isNiche": false
     },
     {
-        "category": "arts_and_literature",
+        "category": "VRchat_SDG",
         "id": "622a1c397cc59eab6f950dd3",
         "correctAnswer": "Anthony Burgess",
         "incorrectAnswers": [
@@ -358,7 +358,7 @@
             "text": "Which author wrote 'A Clockwork Orange'?"
         },
         "tags": [
-            "arts_and_literature"
+            "VRchat_SDG"
         ],
         "type": "text_choice",
         "difficulty": "hard",
